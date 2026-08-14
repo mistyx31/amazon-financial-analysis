@@ -4,7 +4,7 @@ An interactive financial performance dashboard built in Microsoft Excel using pu
 
 ![Amazon Financial Dashboard](amazon-dashboard.png)
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes Amazon's financial performance across multiple years using an interactive Excel dashboard.
 
@@ -15,7 +15,7 @@ The dashboard focuses on four key financial metrics:
 - Net Income
 - AWS Revenue
 
-## ✨ Dashboard Features
+##  Dashboard Features
 
 - Interactive year selection using a dropdown
 - Dynamic KPI cards
@@ -24,7 +24,7 @@ The dashboard focuses on four key financial metrics:
 - Year-over-year financial comparison
 - Separate raw data and calculation sheets
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 - Microsoft Excel
 - XLOOKUP
@@ -34,7 +34,7 @@ The dashboard focuses on four key financial metrics:
 - Financial Analysis
 - Year-over-Year Growth Analysis
 
-## 📈 2024 Snapshot
+##  2024 Snapshot
 
 | Metric | 2024 |
 |---|---:|
@@ -43,15 +43,15 @@ The dashboard focuses on four key financial metrics:
 | Net Income | $59.25B |
 | AWS Revenue | $107.56B |
 
-## 🎯 Objective
+##  Objective
 
 The objective of this project was to transform publicly available financial data into an interactive dashboard that makes Amazon's financial performance easier to analyze and compare across years.
 
-## 📁 Project Structure
+##  Project Structure
 
 - `Amazon Financial Analysis.xlsx` — Complete Excel dashboard and supporting data
 - `amazon-dashboard.png` — Dashboard preview
 
-## 👩‍💻 Author
+##  Author
 
 **Swetha Sureshkumar**
